@@ -4,7 +4,7 @@ Hi 👋 My name is Brenden Chu
 React/Vue/Laravel
 -----------------
 
-Developing for the web since 2011. My current stack is what I call "JAMP" – embracing a modern Jamstack architectural approach on the frontend, while leveraging my legacy PHP experience to build the backend/middleware/API.
+Developing for the web since 2011. My current stack is what I call "JAMP" – embracing a modern Jamstack architectural approach on the frontend, while leveraging my 10+ PHP experience to build the backend/middleware/API. I'm hoping that over time, I can pick up Go or Rust, and shift away from PHP.
 
 * 🌍  I'm based in Vancouver, Canada 🇨🇦
 * ✉️  You can contact me at [brenden@wavy.blue](mailto:brenden@wavy.blue)
