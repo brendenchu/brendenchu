@@ -1,14 +1,14 @@
 Hi 👋 My name is Brenden Chu
-============================
+===
 
-React/Vue/Laravel
------------------
+React/Vue/Svelte/Laravel
+---
 
-Developing for the web since 2011. My current stack is what I call "JAMP" – embracing a modern Jamstack architectural approach on the frontend, while leveraging my 10+ years of PHP experience to build the backend/middleware/API. I'm hoping that over time, I can pick up Go or Rust, and shift away from PHP.
+Since 2011, PHP had been my bread and butter, but as of 2022, I've been craving the Jam(stack).
 
 * 🌍  I'm based in Vancouver, Canada 🇨🇦
 * ✉️  You can contact me at [brenden@wavy.blue](mailto:brenden@wavy.blue)
-* 🧠  I'm learning Svelte(Kit), Go, microservices
+* 🧠  I'm learning Next.js 13+, Svelte(Kit) 1+, Astro 2+
 
 ### Skills
 
