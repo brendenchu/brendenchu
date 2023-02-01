@@ -4,11 +4,16 @@ Hi 👋 My name is Brenden Chu
 React/Vue/Svelte/Laravel
 ---
 
-Since 2011, PHP had been my bread and butter, but as of 2022, I've been craving the Jam(stack).
+Since 2011, PHP has been my bread and butter. Then in 2022, I developed a craving for jam(stack).
 
 * 🌍  I'm based in Vancouver, Canada 🇨🇦
 * ✉️  You can contact me at [brenden@wavy.blue](mailto:brenden@wavy.blue)
-* 🧠  I'm learning Next.js 13+, Svelte(Kit) 1+, Astro 2+
+* 🧠  I'm learning:
+  * Next.js 13+
+  * Nuxt 3+
+  * SvelteKit 1+
+  * Astro 2+
+  * Laravel 10+ w/ Inertia 1+
 
 ### Skills
 
