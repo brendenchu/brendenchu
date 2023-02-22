@@ -1,7 +1,7 @@
 Hi 👋 My name is Brenden Chu
 ===
 
-React/Vue/Svelte/Laravel
+React/Svelte/Laravel
 ---
 
 Since 2011, PHP has been my bread and butter. Then in 2022, I developed a craving for jam(stack).
