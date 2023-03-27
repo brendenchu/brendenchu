@@ -8,9 +8,8 @@ Since 2011, PHP has been my bread and butter. Then in 2022, I developed a cravin
 
 * 🌍  I'm based in Vancouver, Canada 🇨🇦
 * ✉️  You can contact me at [brenden@wavy.blue](mailto:brenden@wavy.blue)
-* 🧠  I'm learning:
+* 🧠  I'm learning/using:
   * Next.js 13+
-  * Nuxt 3+
   * SvelteKit 1+
   * Astro 2+
   * Laravel 10+ w/ Inertia 1+
